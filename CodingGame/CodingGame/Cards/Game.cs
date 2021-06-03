@@ -19,6 +19,8 @@ namespace CodingGame.Cards
 
         public Game(int playersCount, int cardsCount)
         {
+            if (playersCount < 0)
+            { throw new GameException(); }
             _playersCount = playersCount;
             _cardsCount = cardsCount;
             Players = NewListPlayer(playersCount);
@@ -33,7 +35,7 @@ namespace CodingGame.Cards
             {
                 for (int j = 0; j < numberCards; j++)
                 {
-                    if(!Players[i].Cards.Contains(Deck.Cards[i * numberCards + j]))
+                    if (!Players[i].Cards.Contains(Deck.Cards[i * numberCards + j]))
                     {
                         Players[i].AddCard(Deck.Cards[i * numberCards + j]);
                     }

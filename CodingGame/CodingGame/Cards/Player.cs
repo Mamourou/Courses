@@ -23,6 +23,10 @@ namespace CodingGame.Cards
 
         public void AddCard(Card card)
         {
+            if(Cards.Contains(card))
+            {
+                throw new GameException();
+            }
             // TO DO
             Cards.Add(card);
         }
