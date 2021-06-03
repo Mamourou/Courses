@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\Debug\CodingGame.dll
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\Debug\CodingGame.pdb
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\Debug\nunit.framework.dll
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\Debug\nunit.framework.xml
+C:\Users\hp\source\repos\CodingGame\CodingGame\obj\Debug\CodingGame.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CodingGame\CodingGame\obj\Debug\CodingGame.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CodingGame\CodingGame\obj\Debug\CodingGame.csproj.CopyComplete
+C:\Users\hp\source\repos\CodingGame\CodingGame\obj\Debug\CodingGame.dll
+C:\Users\hp\source\repos\CodingGame\CodingGame\obj\Debug\CodingGame.pdb

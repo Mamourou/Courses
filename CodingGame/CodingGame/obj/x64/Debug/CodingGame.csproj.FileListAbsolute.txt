@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\x64\Debug\CodingGame.dll
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\x64\Debug\CodingGame.pdb
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\x64\Debug\nunit.framework.dll
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\x64\Debug\nunit.framework.xml
+C:\Users\hp\source\repos\CodingGame\CodingGame\obj\x64\Debug\CodingGame.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CodingGame\CodingGame\obj\x64\Debug\CodingGame.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CodingGame\CodingGame\obj\x64\Debug\CodingGame.csproj.CopyComplete
+C:\Users\hp\source\repos\CodingGame\CodingGame\obj\x64\Debug\CodingGame.dll
+C:\Users\hp\source\repos\CodingGame\CodingGame\obj\x64\Debug\CodingGame.pdb
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\x64\Debug\nunit.engine.dll
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\x64\Debug\nunit.engine.core.dll
+C:\Users\hp\source\repos\CodingGame\CodingGame\bin\x64\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
